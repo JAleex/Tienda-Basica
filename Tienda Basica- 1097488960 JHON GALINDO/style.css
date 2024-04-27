@@ -1,0 +1,18 @@
+.div-footer{
+    background-color: black; 
+    height: 120px; 
+    color: white;
+    width: 100%;
+}
+.productos{
+    height: 340px;
+}
+#encabezado-pagina{
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    top: 0px;
+}
+.sesionPrincipal{
+    margin-top: 95px !important;
+}
